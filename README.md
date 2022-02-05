@@ -1,4 +1,4 @@
-# Danzx-Userbot Telegram
+# Danzx-Userbot Telegram 😈
 
 Danzx-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
